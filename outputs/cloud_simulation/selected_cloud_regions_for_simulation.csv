@@ -1,0 +1,8 @@
+cloud_region,location,google_cfe,grid_carbon_intensity_gco2eq_per_kwh,google_cfe_percent
+europe-north2,Stockholm,1.0,2.73,100.0
+northamerica-northeast1,Montréal,0.99,5.48,99.0
+europe-west6,Zürich,0.98,15.05,98.0
+us-west1,Oregon,0.87,79.23,87.0
+us-east4,Northern Virginia,0.62,323.05,62.0
+us-east1,South Carolina,0.31,575.77,31.0
+asia-south1,Mumbai,0.09,678.76,9.0

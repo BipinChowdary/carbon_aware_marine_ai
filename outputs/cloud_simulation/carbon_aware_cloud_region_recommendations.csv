@@ -1,0 +1,6 @@
+model,rmse,measured_energy_kwh,recommended_low_carbon_region,recommended_location,recommended_cfe_percent,recommended_grid_carbon_intensity,recommended_emissions_kg_co2eq,highest_emission_region_in_selected_set,highest_emission_location,highest_region_grid_carbon_intensity,highest_region_emissions_kg_co2eq,potential_savings_percent_vs_highest_selected_region
+Persistence_Baseline,0.1451374772012351,0.0,europe-north2,Stockholm,100.0,2.73,0.0,us-east1,South Carolina,575.77,0.0,
+PyTorch_Neural_Network,0.9102916594260512,0.0002245286032415,europe-north2,Stockholm,100.0,2.73,6.12963086849295e-07,asia-south1,Mumbai,678.76,0.00015240103473620055,99.59779598090635
+Random_Forest,0.1529204412760542,8.276052427301124e-05,europe-north2,Stockholm,100.0,2.73,2.259362312653207e-07,asia-south1,Mumbai,678.76,5.6174533455549104e-05,99.59779598090635
+Ridge_Regression,0.1336448839777558,1.4458355962031836e-05,europe-north2,Stockholm,100.0,2.73,3.9471311776346916e-08,asia-south1,Mumbai,678.76,9.81375369278873e-06,99.59779598090635
+XGBoost,0.1622102291519892,2.2454029716173677e-05,europe-north2,Stockholm,100.0,2.73,6.129950112515414e-08,asia-south1,Mumbai,678.76,1.5240897210150045e-05,99.59779598090635
